@@ -677,6 +677,7 @@ header nav a:hover{
 }
 .footer1 img{
     margin-bottom: 20px;
+   
 }
 .footer1 section{
     font-size: 14px;
@@ -699,9 +700,10 @@ header nav a:hover{
     border-bottom: 2px solid var(--main-color);
     margin-bottom: 50px;
     display: inline-block;
+    margin-left:30px;
 }
 .footer1 .location{
-    margin-left: 30px;
+    margin-left: 50px;
     margin-bottom: 20px;
 }
 .location span{
