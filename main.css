@@ -194,10 +194,9 @@ header nav a:hover{
 .home-links .second a{
     background: transparent;
     border-color: #333;
+    margin-right:30px:
 }
-.third {
-    margin-left:20px;
-}
+
 
 .home-links a:hover{
     background: transparent;
